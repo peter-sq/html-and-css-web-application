@@ -1,0 +1,99 @@
+.container{
+    background-color: rgb(76, 76, 82);
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("hero_1.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    padding: 30px;
+   
+    
+}
+
+.text{
+    text-align: center;
+    margin-top: 270px;
+    color: white;
+    font-size: 24px;
+    }
+
+    .info{
+        background-color: white;
+       width: 280px;
+       height: 250px;
+       padding: 20px;
+    }
+
+    .message{
+        max-width: 2000px;
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 2fr));
+        grid-column-gap: 10.5px;
+        grid-row-gap: 7rem;
+        padding: 4rem;
+        background-color:#f0f3f5;
+       
+       
+    }
+    .address{
+        font-size: 20px;
+    }
+   #message{
+       width: 588px;
+       height: 300px;
+
+   }
+   #emai-l{
+       width: 588px;
+       height:40px;
+   }
+   #text{
+    height:40px;
+    width: 290px;
+   }
+
+   #te-xt{
+    height:40px;
+    width: 294px;
+
+
+   }
+    
+
+    .info{
+        margin-bottom:80px;
+        margin-left: 80px;
+        
+    }
+
+    footer{
+        background-color:black;
+        background-size: 100%;
+        background-repeat: no-repeat;
+        padding-top: 50px;
+        background-size: cover;
+        padding-bottom: 100px;   
+        
+    }
+    
+    #email{
+        height: 40px;
+        width: 280px;
+    }
+    #subscribe{
+        height: 46px;
+        background-color: #ff5533;
+        border-color: #ff5533;
+        height: 46px;
+        width: 100px;
+    }
+    
+    #copyright{
+        color: white;
+        text-align: center;
+        size: 30px;
+    }
+
+   
+
+   

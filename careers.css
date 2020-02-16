@@ -1,0 +1,42 @@
+.container{
+    background-color: rgb(76, 76, 82);
+    width: 99%;
+    background-image:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("hero_3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 700px;
+}
+
+    
+
+#careers{
+    background-color: #f0f3f5;
+    background-size: 100%;
+    padding: 80px;
+    
+}
+
+a{
+    color: red;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+#soft{
+    font-size: 18px;
+    background-color:white;
+    padding: 40px;
+    margin: 20px;
+    
+}
+
+.text{
+    padding-bottom: 100px;
+}
+
+#section-4{
+    padding-bottom: 50px;
+    margin-top: 80px;
+}
+
+
